@@ -1,0 +1,22 @@
+{
+  "name": "hapi-ip-filter",
+  "version": "1.0.0",
+  "description": "IP filtering for hapi",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/goto100/hapi-ip-filter.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goto100/hapi-ip-filter/issues"
+  },
+  "homepage": "https://github.com/goto100/hapi-ip-filter#readme"
+}
